@@ -24,4 +24,8 @@ We welcome contributions from the open-source community.
 
 ## Contact
 
-For queries, feel free to contact the maintainer at omaratef3221@gmail.com or on Twitter at @OmarAtef3221
+For queries, feel free to contact the maintainer at:
+
+📧 Email: omaratef3221@gmail.com
+
+🐦 Twitter: @OmarAtef3221
