@@ -18,6 +18,9 @@ This Repo will be updated frequently and I will add more and more exercises ever
 - [Ex6 - Image captioning] (Comming soon!)
 - [Ex7 - LLM fine-tuning for question answering] (Comming soon!)
 
+
+[Interested in Practicing PyTorch?](https://github.com/omaratef3221/pytorch_tutorials)
+
 ## How to Contribute
 
 We welcome contributions from the open-source community.
