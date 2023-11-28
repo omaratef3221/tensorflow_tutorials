@@ -10,7 +10,7 @@ This Repo will be updated frequently and I will add more and more exercises ever
 
 ## Contents
 
-- [Ex1 - Tabular classification] (In Progress)
+- [Ex1 - Tabular classification](https://github.com/omaratef3221/tensorflow_tutorials/blob/main/TF_Ex_1_Tabular_Classification.ipynb)
 - [Ex2 - Basic CNN Image classification] (Comming soon!)
 - [Ex3 - Image Classification with Pretrained] (Comming soon!)
 - [Ex4 - Audio Classification] (Comming soon!)
