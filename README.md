@@ -3,7 +3,7 @@
 ## Overview 🌐
 Welcome to the TensorFlow Tutorials repository! Here, you'll find a series of detailed exercises using TensorFlow, all within Jupyter IPython Notebooks. Whether you're starting out or looking to deepen your TensorFlow expertise, these tutorials are crafted to enhance your journey.
 
-🔍 **Stay Updated**: We're constantly expanding this collection with more tutorials. Check back often for new content!
+🔍 **Stay Updated**: I am constantly expanding this collection with more tutorials. Check back often for new content!
 
 💡 **Your Voice Matters**: Contributions, suggestions, and issue reporting are highly encouraged to make these tutorials even better.
 
@@ -17,7 +17,7 @@ Dive into our TensorFlow exercises:
 - 📝 [Ex5 - Text Binary Classification with Bert] (Coming Soon!)
 - 🖼️📝 [Ex6 - Image Captioning] (Coming Soon!)
 
-🔗 **Prefer PyTorch?** Explore our [PyTorch Notebook Exercises](https://github.com/omaratef3221/pytorch_tutorials)!
+🔗 **Prefer PyTorch?** Explore these [PyTorch Notebook Exercises](https://github.com/omaratef3221/pytorch_tutorials)!
 
 ## How to Contribute 🤝
 Join our open-source community! Your contributions to expand or improve these tutorials are always welcome.
