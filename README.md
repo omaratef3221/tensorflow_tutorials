@@ -1,34 +1,29 @@
-# TensorFlow Tutorials
+# 🌟 TensorFlow Tutorials
 
-## Overview
+## Overview 🌐
+Welcome to the TensorFlow Tutorials repository! Here, you'll find a series of detailed exercises using TensorFlow, all within Jupyter IPython Notebooks. Whether you're starting out or looking to deepen your TensorFlow expertise, these tutorials are crafted to enhance your journey.
 
-Brief description of what this project aims to do.
+🔍 **Stay Updated**: We're constantly expanding this collection with more tutorials. Check back often for new content!
 
-In this repository, we will have multiple TensorFlow Exercises in Jupyter IPython Notebooks explained in detail.
+💡 **Your Voice Matters**: Contributions, suggestions, and issue reporting are highly encouraged to make these tutorials even better.
 
-This Repo will be updated frequently and I will add more and more exercises every time I can. Feel free to contribute or raise issues if anything is not clear.
+## Contents 📚
+Dive into our TensorFlow exercises:
 
-## Contents
+- 📉 [Ex1 - Tabular Classification](https://github.com/omaratef3221/tensorflow_tutorials/blob/main/TF_Ex_1_Tabular_Classification.ipynb)
+- 🖼️ [Ex2 - Basic CNN Image Classification](https://github.com/omaratef3221/tensorflow_tutorials/blob/main/TF_Ex_2_Image_Classification.ipynb)
+- 🌄 [Ex3 - Image Classification with Pretrained Models] (Coming Soon!)
+- 🎵 [Ex4 - Audio Classification] (Coming Soon!)
+- 📝 [Ex5 - Text Binary Classification with Bert] (Coming Soon!)
+- 🖼️📝 [Ex6 - Image Captioning] (Coming Soon!)
 
-- [Ex1 - Tabular classification](https://github.com/omaratef3221/tensorflow_tutorials/blob/main/TF_Ex_1_Tabular_Classification.ipynb)
-- [Ex2 - Basic CNN Image classification] (Comming soon!)
-- [Ex3 - Image Classification with Pretrained] (Comming soon!)
-- [Ex4 - Audio Classification] (Comming soon!)
-- [Ex5 - Text Binary classification with Bert] (Comming soon!)
-- [Ex6 - Image captioning] (Comming soon!)
-- [Ex7 - LLM fine-tuning for question answering] (Comming soon!)
+🔗 **Prefer PyTorch?** Explore our [PyTorch Notebook Exercises](https://github.com/omaratef3221/pytorch_tutorials)!
 
+## How to Contribute 🤝
+Join our open-source community! Your contributions to expand or improve these tutorials are always welcome.
 
-Interested in Practicing PyTorch? [PyTorch Notebook Exercises](https://github.com/omaratef3221/pytorch_tutorials)
+## Contact 📬
+Have questions or suggestions? Reach out to us!
 
-## How to Contribute
-
-We welcome contributions from the open-source community.
-
-## Contact
-
-For queries, feel free to contact the maintainer at:
-
-📧 Email: omaratef3221@gmail.com
-
-🐦 Twitter: @OmarAtef3221
+- 📧 Email: [omaratef3221@gmail.com](mailto:omaratef3221@gmail.com)
+- 🐦 Twitter: [@OmarAtef3221](https://twitter.com/OmarAtef3221)
