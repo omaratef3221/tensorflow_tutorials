@@ -12,7 +12,7 @@ Dive into our TensorFlow exercises:
 
 - 📉 [Ex1 - Tabular Classification](https://github.com/omaratef3221/tensorflow_tutorials/blob/main/TF_Ex_1_Tabular_Classification.ipynb)
 - 🖼️ [Ex2 - Basic CNN Image Classification](https://github.com/omaratef3221/tensorflow_tutorials/blob/main/TF_Ex_2_Image_Classification.ipynb)
-- 🌄 [Ex3 - Image Classification with Pretrained Models] (Coming Soon!)
+- 🌄 [Ex3 - Image Classification with Pretrained Models](https://github.com/omaratef3221/tensorflow_tutorials/blob/main/TF_Ex_3_Image_Classification_Pretrained.ipynb)
 - 🎵 [Ex4 - Audio Classification] (Coming Soon!)
 - 📝 [Ex5 - Text Binary Classification with Bert] (Coming Soon!)
 - 🖼️📝 [Ex6 - Image Captioning] (Coming Soon!)
